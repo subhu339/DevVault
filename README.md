@@ -84,7 +84,7 @@ DevVault/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/DevVault.git
+git clone https://github.com/subhu339/DevVault.git
 cd DevVault
 ```
 
@@ -231,6 +231,4 @@ This project was built with assistance from an AI coding agent (Kiro). Below are
 
 ---
 
-## License
 
-MIT
